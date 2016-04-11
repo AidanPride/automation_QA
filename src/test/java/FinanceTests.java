@@ -9,9 +9,6 @@ import java.util.concurrent.TimeUnit;
 
 import static org.testng.Assert.*;
 
-/**
- * Created by azvonov on 016 16.12.15.
- */
 public class FinanceTests {
 
     WebDriver driver;
