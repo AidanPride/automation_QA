@@ -2,9 +2,6 @@ package testData;
 
 import org.testng.annotations.DataProvider;
 
-/**
- * Created by azvonov on 016 16.12.15.
- */
 public class DataProviderTrello {
 
     @DataProvider(name = "firstTestProvider")
