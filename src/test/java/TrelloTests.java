@@ -9,9 +9,6 @@ import testData.DataProviderTrello;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by azvonov on 016 16.12.15.
- */
 public class TrelloTests {
 
     WebDriver driver;
